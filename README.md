@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-🎓 I'm a 3rd semester student majoring in CS who enjoys building practical and fun programs in **C++**.  
+🎓 I'm a student majoring in CS who enjoys building practical and fun programs in **C++**.  
 💡 I love solving problems and learning how things work under the hood.  
 🛠️ Currently exploring **data structures**, **algorithms**, and improving my skills in **modern C++**.  
 🚀 In my free time, I like experimenting with small projects that simulate real-world logic.
