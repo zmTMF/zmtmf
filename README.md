@@ -16,9 +16,9 @@
 
 ## 📈 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ZhangMEITMF&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ZhangMEITMF&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangMEITMF&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=zmtmf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zmtmf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zmtmf&theme=dark&hide_border=false&layout=compact)
 
 ---
 
@@ -26,6 +26,6 @@
 
 Feel free to check out my repositories or reach out if you're into C++ or student projects too!
 
-[![](https://visitcount.itsvg.in/api?id=ZhangMEITMF&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zmtmf&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
